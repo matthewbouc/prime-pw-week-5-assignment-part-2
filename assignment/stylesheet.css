@@ -1,0 +1,13 @@
+body {
+  background-image: -element(record.png);
+}
+
+header {
+  color: lightgreen;
+  background-color: darkblue;
+  text-align: center;
+}
+
+main {
+  background-color: lightgrey;
+}
