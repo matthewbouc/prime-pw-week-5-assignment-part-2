@@ -1,13 +1,19 @@
 body {
-  background-image: -element(record.png);
+  background-image: url(record.png);
+  background-repeat:repeat;
+  margin: 0;
 }
 
-header {
-  color: lightgreen;
+.darkbox {
   background-color: darkblue;
+}
+
+.textbox {
+  color: lightgreen;
   text-align: center;
 }
 
-main {
+.lightgreybox {
   background-color: lightgrey;
+  padding: 1em;
 }
